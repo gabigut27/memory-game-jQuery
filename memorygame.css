@@ -1,0 +1,22 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 600px;
+    position: absolute;
+    right: 588px;
+    top: 19%;
+}
+  .resetgame {
+    background-color: #e0d203; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
